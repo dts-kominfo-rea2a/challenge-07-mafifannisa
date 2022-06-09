@@ -1,0 +1,23 @@
+{
+  "name": "challenge-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --forceExit --runInBand --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjadi-react-developer/challenge-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjadi-react-developer/challenge-promises/issues"
+  },
+  "homepage": "https://github.com/menjadi-react-developer/challenge-promises#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
